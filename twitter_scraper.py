@@ -3,7 +3,7 @@ import pandas as pd
 import yfinance as yf
 
 # Your Twitter API credentials
-bearer_token = 'YOUR_BEARER_TOKEN'
+bearer_token = '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%'
 
 # Authenticate to the Twitter API using only the bearer token
 client = tweepy.Client(bearer_token)
